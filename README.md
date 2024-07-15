@@ -67,12 +67,15 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=muigakelvin&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" style="width: 30%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muigakelvin&theme=gruvbox&hide_border=false" style="width: 30%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muigakelvin&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 30%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muigakelvin&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" style="height: 150px; width: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muigakelvin&theme=gruvbox&hide_border=false" style="height: 150px; width: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muigakelvin&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height: 150px; width: auto;" />
 </div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muigakelvin&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+https://visitcount.itsvg.in/api?id=muigakelvin&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
